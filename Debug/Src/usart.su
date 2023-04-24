@@ -1,0 +1,5 @@
+usart.c:12:13:usart_perip_cloc_en	16	static
+usart.c:34:9:usart_get_flag_state	16	static
+usart.c:45:7:usart_int	16	static
+usart.c:113:6:uart_send_data	32	static
+usart.c:127:6:uart_receive_data	32	static

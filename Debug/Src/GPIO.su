@@ -1,0 +1,7 @@
+GPIO.c:13:6:gpio_clock_en_di	16	static
+GPIO.c:42:6:gpio_init	24	static
+GPIO.c:82:6:gpio_write_out_pin	16	static
+GPIO.c:90:6:gpio_read_input_pin	24	static
+GPIO.c:98:6:gpio_toggle_pin	16	static
+GPIO.c:103:6:gpio_write_port	16	static
+GPIO.c:109:10:gpio_read_input_port	24	static

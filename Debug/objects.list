@@ -1,0 +1,8 @@
+"./Src/GPIO.o"
+"./Src/I2C.o"
+"./Src/SPI.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/usart.o"
+"./Startup/startup_stm32f407vgtx.o"

@@ -1,0 +1,4 @@
+I2C.c:12:6:i2c1_init	4	static
+I2C.c:71:8:i2c1_start	4	static
+I2C.c:78:7:i2c1_write	4	static
+I2C.c:92:7:i2c1_send_adr	16	static
